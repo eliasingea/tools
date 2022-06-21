@@ -45,7 +45,7 @@ input, input:focus, button, button:focus {
 }
 
 .input-custom {
-  @apply flex items-center rounded text-sm bg-white shadow pl-8 outline-none;
+  @apply flex items-center rounded-full text-sm bg-white shadow-md pl-8 outline-none;
 
   &:hover {
     @apply shadow-md;

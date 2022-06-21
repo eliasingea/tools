@@ -15,6 +15,10 @@ This repo contains a set of tools that helps working on algolia related topics l
 | **Logs** | allows to visualise realtime log |
 | **Apps** | Landing page |
 
+## Prereqs
+
+Make sure to use node version 16
+
 ## Install
 
 After making sure that node and yarn are install, at the root of the repo run:
